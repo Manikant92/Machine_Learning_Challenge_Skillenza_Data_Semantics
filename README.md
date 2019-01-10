@@ -2,7 +2,7 @@
 
 Topped the leaderboard in one of the Data Science Challenge Conducted by [Data Semantics](https://skillenza.com/challenge/datasemantics-data-science) on Skillenza
 
-##Leaderboard:
+## Leaderboard:
 
 ![Leaderboard](https://github.com/Manikant92/Machine_Learning_Challenge_Skillenza_Data_Semantics/blob/master/leaderboard.PNG)
 
